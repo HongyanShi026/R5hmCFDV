@@ -1,0 +1,4 @@
+The following versions of packages need to be installed to run properly：
+tensorflow--2.2.0
+kears--2.4.3
+numpy--1.22.3
